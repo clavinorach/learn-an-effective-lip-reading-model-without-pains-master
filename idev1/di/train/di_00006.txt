@@ -1,0 +1,5 @@
+VidID: 0
+VidName: Najwa_Bagaimana_1_50_26.mp4
+ChannelId: 
+Start: 0.46 End: 0.54
+Duration: 0.08 seconds 

@@ -1,0 +1,5 @@
+VidID: 0
+VidName: Najwa_Bagaimana_1_24_1.mp4
+ChannelId: 
+Start: 0.17 End: 0.32
+Duration: 0.15 seconds 
